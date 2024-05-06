@@ -1,0 +1,2 @@
+analisis class A amplifier
+arus yang keluar dari amplifier kelas A lebih besar dibandingkan arus masuk dikareankan transistor NPN memperkuat arus yang masuk. transistor pada rangkaian mempengaruhi arus yang keluar.
