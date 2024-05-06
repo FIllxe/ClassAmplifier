@@ -1,0 +1,5 @@
+analisis class AB amplifier
+
+amplifier kelas ini memiliki fungsi yang mirip dengan kelas B yang menggunakan dua transistor secara bergantian, 
+memungkinkan kedua transistor switching untuk menghantarkan arus pada saat yang sama untuk waktu yang sangat singkat 
+dan tidak memiliki cacat seperti amplifier B
