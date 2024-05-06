@@ -1,0 +1,3 @@
+analisis amplifier class B
+
+pada amplifier class B menggunakan transistor PNP dan NPN yang dimana bekerja secara bergantian saat dialiri sinyal, sehingga input setengah gelombang negatif terpotong yang mengakibatkan  penguat kelas ini memiliki cacat. 
